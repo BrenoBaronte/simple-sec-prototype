@@ -5,4 +5,4 @@ This <a href="https://github.com/BrenoBaronte/simple-sec-prototype/blob/main/TAR
 
 It's available in <a href="https://www.tinkercad.com/things/6CJvaDkrlrc">TinkerCad</a>! You can run and edit the code.
 
-![prototype-photo](https://photos.app.goo.gl/LNxPBhBikBdF2NMt9)
+![prototype-photo](https://i.imgur.com/vBK0i5s.png)
